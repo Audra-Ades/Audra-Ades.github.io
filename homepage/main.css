@@ -1,15 +1,8 @@
+body {margin: 0 auto; text-align: center; background-color:grey;}
 
-body { background-image:url("grey.jpg");
-}
-p{
-  color:white;
-font-size: 30px;
-font-family: satisfy;
+h1 {
+  color: #ffccff;
+  font-family: pacifico;
+  text-align: center;
+font-size: 80px;
 background-color: black;
-}
-a{ font-family: courier;
-  color: white;
-  font-size:20px;
-  background-color: black;
-
-}
