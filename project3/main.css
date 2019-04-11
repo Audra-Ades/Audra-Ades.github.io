@@ -1,6 +1,19 @@
 body {margin: 0 auto; text-align: center; background-image:url("blackglitter.jpg") ;}
-
 h1 {
+  color: #ffccff;
+  font-family: pacifico;
+  text-align: center;
+font-size: 70px;
+background-color: #333333;
+}
+p1{
+  color:darkgrey;
+  font-family:courier;
+  font-size: 30px;
+  background-color: #333333;
+
+}
+h2 {
   color: white;
   font-family: satisfy;
   text-align: center;
@@ -8,12 +21,12 @@ font-size: 80px;
 background-color: black;
 
 }
-h2{
+h3{
   color: White;
 font-family: satisfy;
   font-size:40px
 }
-p {
+p2 {
   color:white;
   font-family: damion;
   font-size: 30px;
